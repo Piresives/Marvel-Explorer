@@ -65,7 +65,7 @@
 
 ```bash
 # Clone este repositório para o seu ambiente de desenvolvimento:
-$ git clone https://github.com/seu-usuario/projeto-marvel-api.git
+$ git clone https://github.com/seu-usuario/Marvel-Explorer.git
 
 # Acesse o diretório do projeto:
 $ cd Marvelapp/web
