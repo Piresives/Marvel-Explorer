@@ -47,6 +47,12 @@
 <h1 align="center">
 <img  src="/github/paginacao.png" alt="" />
 </h1>
+<h2 id="">Erro 404</h2>
+<h1 align="center">
+    <video autoPlay muted loop>
+        <source src="./web/src/Media/video/animation.mp4" type="video/mp4" />
+    </video>
+</h1>
 
 <h2 id="Tecnologias">🛠 Tecnologias</h2>
 <p>As seguintes tecnologias foram empregadas na criação deste projeto:</p>

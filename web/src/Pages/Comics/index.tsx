@@ -5,7 +5,7 @@ const Comics: React.FC = () => {
   return (
     <>
       {/* Elementos da página Comics */}
-      <SearchResults endpoint="/comics" keyPrefix={''} />
+      <SearchResults endpoint="/comics"/>
     </>
   );
 };

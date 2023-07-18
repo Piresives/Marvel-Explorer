@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useCallback, KeyboardEvent, useRef } from 'react';
 import api from '../Services/Api';
 import { FcSearch } from 'react-icons/fc';
-import { FiChevronDown } from 'react-icons/fi';
 import Pagination from './Pagination';
 import Modal from './CardModal';
 

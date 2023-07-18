@@ -5,7 +5,7 @@ const Series: React.FC = () => {
   return (
     <>
       {/* Elementos da página Characters */}
-      <SearchResults endpoint="/series" keyPrefix={''} />
+      <SearchResults endpoint="/series"/>
     </>
   );
 };

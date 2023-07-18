@@ -139,42 +139,6 @@ ul.pagination {
   transition: ease-in-out 0.3s;
 }
 
-#Mais {
-  background-color: #202020;
-  display: flex;
-  justify-content: center;
-  padding: 20px;
-  gap: 10px;
-}
-
-#Mais button {
-  background-color: #e81e21;
-  font-size: 1rem;
-  cursor: pointer;
-  box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 1);
-  padding: 5px 30px;
-  border-radius: 5px;
-  border: none;
-  transition: all 0.3s;
-}
-
-#Mais button:hover {
-  background-color: #aa1f28;
-}
-
-#Mais span {
-  font-size: 1rem;
-  color: #fff;
-  font-weight: 900;
-  margin-left: 5px;
-  margin-right: 10px;
-  border: solid #fff 1px;
-  padding: 0 15px;
-  display: flex;
-  align-items: center;
-  border-radius: 5px;
-}
-
 svg {
   margin: 0 30px;
 }
