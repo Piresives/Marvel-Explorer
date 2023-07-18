@@ -7,8 +7,8 @@
 <a href="#Sobre">Sobre</a> |
 <a href="#Layout">Layout</a> |
 <a href="#Tecnologias">Tecnologias</a> |
-<a href="#Infos">Infos</a> |
 <a href="#ultilizar">Como ultilizar</a> |
+<a href="#Infos">Infos</a> |
 </p>
 
 <h2 id="Sobre">💻 Sobre</h2>
@@ -61,15 +61,9 @@
 - [API Marvel](https://developer.marvel.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
-- [CSS] (https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [HTML] (https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Vite](https://vitejs.dev/)
-
-<h2 id="Infos">🚀 Infos</h2>
-<p>Este projeto é composto por 2 partes distintas:</p>
-<br>
-<p>1. Backend (server)</p>
-<p>2. Frontend (web)</p>
 
 <h2 id="ultilizar">🚀 Pré-requisitos</h2>
 <p>💡 É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="https://code.visualstudio.com/">VScode</a>.</p>
@@ -77,7 +71,7 @@
 
 ```bash
 # Clone este repositório para o seu ambiente de desenvolvimento:
-$ git clone https://github.com/seu-usuario/projeto-marvel-api.git
+$ git clone https://github.com/seu-usuario/Marvel-Explorer.git
 
 # Acesse o diretório do projeto:
 $ cd Marvelapp/web
@@ -86,11 +80,11 @@ $ cd Marvelapp/web
 $ npm install
 ```
 <h2>⚙️ Configuração</h2>
-<h3>💡 Antes de executar o projeto, você precisa fornecer as chaves de acesso à API da Marvel. Siga os passos abaixo para configurar as chaves:</h3>
-<p>1. Acesse o site <a href="https://developer.marvel.com/">Marvel Developer Portal</a> e crie uma conta.</p>
-<p>2. Após fazer login, vá para a seção "My Developer Account" e clique em "Create a new App".</p>
-<p>3. Preencha o formulário e registre a sua aplicação. Anote as chaves de acesso geradas (public key e private key).</p>
-<p>4. No diretório do projeto, crie um arquivo .env.local e adicione as chaves no seguinte formato:</p>
+<h4>💡 Antes de executar o projeto, você precisa fornecer as chaves de acesso à API da Marvel. Siga os passos abaixo para configurar as chaves:</h4>
+<p><strong>1.</strong> Acesse o site <a href="https://developer.marvel.com/">Marvel Developer Portal</a> e crie uma conta.</p>
+<p><strong>2.</strong> Após fazer login, vá para a seção "My Developer Account" e clique em "Create a new App".</p>
+<p><strong>3.</strong> Preencha o formulário e registre a sua aplicação. Anote as chaves de acesso geradas (public key e private key).</p>
+<p><strong>4.</strong> No diretório do projeto, crie um arquivo .env.local e adicione as chaves no seguinte formato:</p>
 
 ```bash
 REACT_APP_MARVEL_PUBLIC_KEY=SuaMarvelPublicKey
@@ -108,15 +102,15 @@ $ npm run dev
 # Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
 $ http://localhost:5173/  
 ```
-<h2 id="Tecnologias">🛠 Funcionalidades</h2>
+<h2 id="Infos">🛠 Funcionalidades</h2>
 <p>🗺️ O projeto inclui as seguintes funcionalidades:</p>
 
-<p>1<strong>Lista de personagens: </strong>Exibe uma lista paginada de personagens da Marvel, com informações básicas como nome e foto.</p>
-<p>2<strong>Detalhes do personagem: </strong>o clicar em um personagem, exibe informações detalhadas, incluindo nome, descrição.</p>
-<p>3<strong>Lista de quadrinhos: </strong>Exibe uma lista paginada de quadrinhos da Marvel, com informações básicas como título e imagem de capa.</p>
-<p>4<strong>Detalhes do quadrinho: </strong>Ao clicar em um quadrinho, exibe informações detalhadas, incluindo título e descrição.</p>
-<p>5<strong>Lista de séries: </strong>Exibe uma lista paginada de séries da Marvel, com informações básicas como título e imagem de capa.</p>
-<p>6<strong>Detalhes da série: </strong>Ao clicar em uma série, exibe informações detalhadas, incluindo título, descrição.</p>
+<p>1. <strong>Lista de personagens: </strong>Exibe uma lista paginada de personagens da Marvel, com informações básicas como nome e foto.</p>
+<p>2. <strong>Detalhes do personagem: </strong>o clicar em um personagem, exibe informações detalhadas, incluindo nome, descrição.</p>
+<p>3. <strong>Lista de quadrinhos: </strong>Exibe uma lista paginada de quadrinhos da Marvel, com informações básicas como título e imagem de capa.</p>
+<p>4. <strong>Detalhes do quadrinho: </strong>Ao clicar em um quadrinho, exibe informações detalhadas, incluindo título e descrição.</p>
+<p>5. <strong>Lista de séries: </strong>Exibe uma lista paginada de séries da Marvel, com informações básicas como título e imagem de capa.</p>
+<p>6. <strong>Detalhes da série: </strong>Ao clicar em uma série, exibe informações detalhadas, incluindo título, descrição.</p>
 
 ---
 Made with 💚 by Ives Pires 👋 [See my LinkedIn](https://www.linkedin.com/in/ives-pires-de-miranda/)
