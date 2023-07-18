@@ -96,7 +96,7 @@ $ npm run dev
 # Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
 $ http://localhost:5173/  
 ```
-<h2 id="Info">🛠 Funcionalidades</h2>
+<h2 id="Infos">🛠 Funcionalidades</h2>
 <p>🗺️ O projeto inclui as seguintes funcionalidades:</p>
 
 <p>1. <strong>Lista de personagens: </strong>Exibe uma lista paginada de personagens da Marvel, com informações básicas como nome e foto.</p>
