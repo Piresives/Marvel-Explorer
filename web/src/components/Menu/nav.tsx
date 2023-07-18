@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../../Media/imgs/logo.png';
-import { FcSearch } from 'react-icons/fc';
 import '../Menu/style.css';
 
 function Nav() {

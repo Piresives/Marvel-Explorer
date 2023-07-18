@@ -49,9 +49,7 @@
 </h1>
 <h2 id="">Erro 404</h2>
 <h1 align="center">
-    <video autoPlay muted loop>
-        <source src="./web/src/Media/video/animation.mp4" type="video/mp4" />
-    </video>
+<img  src="/github/erro.png" alt="" />
 </h1>
 
 <h2 id="Tecnologias">🛠 Tecnologias</h2>
