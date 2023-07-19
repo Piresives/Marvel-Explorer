@@ -76,6 +76,9 @@ $ cd Marvelapp/web
 
 #Instale as dependências do projeto utilizando o npm:
 $ npm install
+
+#Instale o pacote "react-paginate" usando o gerenciador de pacotes npm:
+$ npm install react-paginate
 ```
 <h2>⚙️ Configuração</h2>
 <h4>💡 Antes de executar o projeto, você precisa fornecer as chaves de acesso à API da Marvel. Siga os passos abaixo para configurar as chaves:</h4>
