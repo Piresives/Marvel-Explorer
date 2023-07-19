@@ -57,7 +57,6 @@
 
 - [ReactJs](https://reactjs.org/)
 - [API Marvel](https://developer.marvel.com/)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
